@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
             color: Colors.red,
           )),
       themeMode: ThemeMode.system,
-      home: const MyApp1(),
+      home: const expense(),
     );
   }
 }
